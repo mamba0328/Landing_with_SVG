@@ -115,19 +115,19 @@ body {
 
     &:nth-of-type(1):hover {
         .service__img {
-            content: url(/assets/imgs/svg/megaphone-green.svg);
+            content: url(../assets/imgs/svg/megaphone-green.svg);
         }
     }
 
     &:nth-of-type(2):hover {
         .service__img {
-            content: url(/assets/imgs/svg/building-green.svg);
+            content: url(../assets/imgs/svg/building-green.svg);
         }
     }
 
     &:nth-of-type(3):hover {
         .service__img {
-            content: url(/assets/imgs/svg/phone-green.svg);
+            content: url(../assets/imgs/svg/phone-green.svg);
         }
     }
 }
